@@ -1,0 +1,9 @@
+Dependencies:
+    1.axios,
+    2.bootstrap,
+    3.jquery,
+    4.popper.js,
+    5.vue,
+    6.vue-axios,
+    7.vue-router,
+    8.vuex
